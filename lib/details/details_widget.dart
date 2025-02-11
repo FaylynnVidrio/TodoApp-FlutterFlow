@@ -125,6 +125,7 @@ class _DetailsWidgetState extends State<DetailsWidget> {
                                 .headlineLarge
                                 .override(
                                   fontFamily: 'Inter',
+                                  color: const Color(0xFF80BEDC),
                                   letterSpacing: 0.0,
                                 ),
                           ),

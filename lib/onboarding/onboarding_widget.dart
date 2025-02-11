@@ -76,6 +76,7 @@ class _OnboardingWidgetState extends State<OnboardingWidget> {
                                 .headlineLarge
                                 .override(
                                   fontFamily: 'Inter',
+                                  color: const Color(0xFF80BEDC),
                                   letterSpacing: 0.0,
                                 ),
                           ),
